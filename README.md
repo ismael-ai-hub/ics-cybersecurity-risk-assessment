@@ -38,7 +38,7 @@ This project focuses on **risk analysis and documentation**, not exploitation.
 ---
 
 ## Disclaimer
-This repository is for **educational purposes only** and does not represent a real
+This repository is for educational purposes only and does not represent a real industrial system.
 
 
 ---
@@ -49,4 +49,3 @@ This repository is for **educational purposes only** and does not represent a re
 - [Threat and Risk Analysis](threat-and-risk-analysis.md)
 - [Security Controls and Recommendations](security-controls-recommendations.md)
 
-industrial system.
